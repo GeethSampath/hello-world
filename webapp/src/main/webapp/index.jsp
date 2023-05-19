@@ -4,7 +4,7 @@
     Registration Page Kubernetes 
     </title>  
     </head>  
-    <body bgcolor="yellow">  
+    <body bgcolor="blue">  
     <br>  
     <br>  
     <form>  
