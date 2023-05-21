@@ -1,10 +1,10 @@
     <Html>  
     <head>   
     <title>  
-    Registration Page Kubernetes 
+    Registration Page Esoft 
     </title>  
     </head>  
-    <body bgcolor="red">  
+    <body bgcolor="pink">  
     <br>  
     <br>  
     <form>  
